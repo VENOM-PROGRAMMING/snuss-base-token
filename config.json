@@ -1,0 +1,12 @@
+[
+  {
+    "leak_check_api": "08a30f79fa03bb5912128352f698c107fdeeef32",
+    "set_timeout_snussbase": 0,
+    "serial_key_snussbase": "sb9rvv3se6la5adn8fwxcuuyh34fmo",
+    "use_proxy": true,
+    "leak_proxy": "",
+    "snuss_base_proxy": "",
+    "database_endpoint_url": "http://162.0.224.102:1111",
+    "save_database": false
+  }
+]
